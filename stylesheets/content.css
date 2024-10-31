@@ -428,7 +428,7 @@ body{
     width: 960px;
     height: 1867px;
     /* background-image: url(/imgs/syje.svg); */
-    background-image: url("syje.svg");
+    background-image: url("imgs/syje.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
