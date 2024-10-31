@@ -427,7 +427,8 @@ body{
     flex-direction: column;
     width: 960px;
     height: 1867px;
-    background-image: url(/imgs/syje.svg);
+    /* background-image: url(/imgs/syje.svg); */
+    background-image: url("https://dariapolushkina.github.io/fira-code-landing/syje.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
