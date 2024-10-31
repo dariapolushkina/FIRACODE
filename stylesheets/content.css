@@ -586,7 +586,7 @@ body{
     margin-top: 50px;
     width: 642px;
     height: 800px;
-    background-image: url(/imgs/linii.svg);
+    background-image: url(../imgs/linii.svg);
     background-position: center 100px;
     background-repeat: no-repeat;
 }
@@ -809,7 +809,7 @@ body{
 .instrument51{
     margin-top: 5px;
     width: 879px;
-    background-image: url(/imgs/fiji.svg);
+    background-image: url(../imgs/fiji.svg);
     background-position: center;
     background-repeat: no-repeat;
 }
